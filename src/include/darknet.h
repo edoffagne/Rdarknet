@@ -766,5 +766,5 @@ void normalize_array(float *a, int n);
 int *read_intlist(char *s, int *n, int d);
 size_t rand_size_t();
 float rand_normal();
-SEXP r_run_detector(SEXP, SEXP); 
+SEXP r_run_detector(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP); 
 #endif
