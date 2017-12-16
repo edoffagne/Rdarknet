@@ -25,7 +25,7 @@ AR=ar
 ARFLAGS=rcs
 OPTS=-Ofast
 LDFLAGS= -lm -pthread 
-COMMON= -Iinclude/ -Isrc/ -I/usr/share/R/include -I-I/home/travis/R-bin/include
+COMMON= -Iinclude/ -Isrc/ -I/usr/share/R/include -I/home/travis/R-bin/include
 CFLAGS=-Wall -Wno-unknown-pragmas -Wfatal-errors -fPIC
 
 ifeq ($(OPENMP), 1) 
