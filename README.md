@@ -2,7 +2,7 @@
 
 # Rdarknet
 
-[![Build Status](https://travis-ci.org/edoffagne/Rdarknet.svg?branch=master)](https://travis-ci.org/ed    offagne/Rdarknet)
+[![Build Status](https://travis-ci.org/edoffagne/Rdarknet.svg?branch=master)](https://travis-ci.org/edoffagne/Rdarknet)
 
 ## Introduction
 
