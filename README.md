@@ -2,6 +2,8 @@
 
 # Rdarknet
 
+[![Build Status](https://travis-ci.org/edoffagne/Rdarknet.svg?branch=master)](https://travis-ci.org/ed    offagne/Rdarknet)
+
 ## Introduction
 
 [Darknet](http://pjreddie.com/darknet) is an open source neural network framework
