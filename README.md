@@ -20,7 +20,7 @@ Type the following lines in an R session:
               "data/dog.jpg", "out.jpg")
  ```
 
-Please note the weights are not include in the package and needs to be downloaded
+Please note the weights are not included in the package and need to be downloaded
 [here](https://pjreddie.com/media/files/yolo.weights).
 
 ## Installation 
