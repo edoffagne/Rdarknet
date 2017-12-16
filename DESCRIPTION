@@ -1,9 +1,11 @@
 Package: Rdarknet
 Type: Package
-Title: What the package does (short line)
-Version: 1.0
+Title: Wrapper for Darknet
+Version: 0.1
 Date: 2017-12-13
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Erik Doffagne [aut, cre], Joseph Redmon [aut] (Author of original C++ code)
+Maintainer: Erik Doffagne <erik.doffagne@gmail.com>
+Description: Darknet is an open source neural network framework written in C and CUDA. This
+             package only exposes a function to run a detector on a pre-trained model. 
+License: MIT
+RoxygenNote: 6.0.1
